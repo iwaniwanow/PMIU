@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArrayAdapter</string>
+    <string name="picture_id">Picture ID</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+</resources>
